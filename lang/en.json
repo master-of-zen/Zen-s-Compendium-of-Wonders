@@ -1,0 +1,31 @@
+{
+  "zens-compendium-of-wonders": {
+    "settings": {
+      "enableNotifications": {
+        "name": "Enable Notifications",
+        "hint": "Display a notification when an item from the module is created."
+      }
+    },
+    "ui": {
+      "directory-header": "Zen's Compendium Items",
+      "creation-section": "Zen's Wondrous Items"
+    },
+    "items": {
+      "whispering-pendant": {
+        "name": "Whispering Pendant",
+        "description": "This elegant pendant allows you to whisper messages to distant individuals."
+      }
+    },
+    "properties": {
+      "attunement": "Attunement Required",
+      "charges": "Charges",
+      "action": "Action",
+      "bonus-action": "Bonus Action",
+      "reaction": "Reaction"
+    },
+    "notifications": {
+      "welcome": "Zen's Compendium of Wonders is now ready to use.",
+      "item-created": "Created item: {name} from Zen's Compendium of Wonders"
+    }
+  }
+}
